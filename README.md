@@ -1,3 +1,13 @@
+# Note
+This repository is a fork of Zach Holman's [dotfiles](https://github.com/holman/dotfiles).
+
+In the [feature-alternates](https://github.com/klopertung/dotfiles/tree/feature-alternates) branch
+of this repository an *alternates* feature is implemented. This feature allows you to maintain different
+versions of a configuration file, and based on the operating system/host/user the correct configuration
+file will be linked. This way, you can keep your dotfiles in one  repository/directory that can be used on
+different platforms or for different user/hostname setups.
+
+
 # holman does dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
